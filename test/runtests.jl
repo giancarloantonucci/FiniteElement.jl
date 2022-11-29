@@ -1,6 +1,6 @@
-using FiniteElement
+using NSDEFiniteElement
 using Test
 
-@testset "FiniteElement.jl" begin
+@testset "NSDEFiniteElement.jl" begin
     # Write your tests here.
 end
